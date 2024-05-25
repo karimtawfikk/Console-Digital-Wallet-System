@@ -1,4 +1,4 @@
-# Digital System Wallet
+# Cash It
 
 
 This project introduces a digital wallet system aimed at facilitating secure financial transactions for users. The system includes functionalities designed for both administrators and users, ensuring efficient management of accounts and transactions.

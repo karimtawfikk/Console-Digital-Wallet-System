@@ -19,6 +19,7 @@ void FileWriter::writeUsersDataToFiles(unordered_map<string, User> users)
     }
     size_t count = users.size();
     count--;
+    
 
     for (const auto& pair : users)
     {

@@ -197,7 +197,8 @@ void Admin::editAccount(unordered_map<string, User>& users)
                 {
                     cout << "\nThis user doesn't exist. Please try again." << endl;
                 }
-            } while (!users.count(userNAME));
+            } 
+            while (!users.count(userNAME));
             users.erase(userNAME);
             cout << "\nAll done! Account deleted successfully.\n";
             break;

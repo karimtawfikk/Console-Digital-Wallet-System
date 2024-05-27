@@ -27,7 +27,7 @@ public:
 	User(string uname, string pass, long long id, float bal, bool sus, bool auth, list<Transactions> trans, vector<Requests> req);
 	void sendMoney(unordered_map<string, User>& users, string username, stack<Transactions>& cashItTransactions);
 	void requestMoney(unordered_map<string, User>& users, string username);
-	void editInfo(unordered_map<string, User>& users, string& u);
+	void sendMoney(unordered_map<string, User>& users, string username, stack<Transactions>& cashItTransactions);
 	void viewTransactionHistory(unordered_map<string, User>& users, string username);
 	bool performOperations(unordered_map<string, User>& users, string& username, stack<Transactions>& cashItTransactions);
 	void viewRequests(unordered_map<string, User>& users, string username, stack<Transactions>& cashItTransactions);

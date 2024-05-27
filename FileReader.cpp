@@ -7,9 +7,9 @@ const string allTransactionFiles = "AllTransactions.txt";
 
 datee FileReader::parseDate(const string& dateStr) {
     datee d;
-    sscanf_s(dateStr.c_str(), "%d-%d-%d" , &d.day, &d.month, &d.year);  //scanf parses the date dateSTR to format d-d-d (int) datatypes, store the values in d.day, d.mont etc
+    sscanf_s(dateStr.c_str(), "%d-%d-%d", &d.day, &d.month, &d.year);  //scanf parses the date dateSTR to format d-d-d (int) datatypes, store the values in d.day, d.mont etc
     return d;
-} 
+}
 timee FileReader::parseTime(const string& timeStr) {
     timee t;
     sscanf_s(timeStr.c_str(), "%d-%d", &t.hours, &t.minutes);
@@ -115,7 +115,7 @@ void FileReader::readTransactionDataFromFile(stack<Transactions>& transactions)
 {
     ifstream file(allTransactionFiles);
 
-    
+
     if (!file.is_open()) {
         cerr << "Error: Unable to open file!" << endl;
     }
@@ -141,6 +141,6 @@ void FileReader::readTransactionDataFromFile(stack<Transactions>& transactions)
 
         transactions.push(transaction);
     }
-   
+
     file.close();
 }

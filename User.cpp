@@ -113,6 +113,8 @@ void User::sendMoney(unordered_map<string, User>& users, string username, stack<
             cout << amount<< " EGP have been sent successfully to " << recipient << "!" << endl;
         }
     } while (flag);
+
+    
 }
 void User::requestMoney(unordered_map<string, User>& users, string username)
 {

@@ -72,9 +72,9 @@ void User::sendMoney(unordered_map<string, User>& users, string username, stack<
         flag = false;
         do
         {
-        string input;
-        cout << "Amount: ";
-        cin >> input;
+            string input;
+            cout << "Amount: ";
+            cin >> input;
         try
         {
             amount = stoi(input); //checks wheather the amount is float or not

@@ -7,7 +7,6 @@
 #include"FileWriter.h"
 using namespace std;
 
-
 class CashIt
 {
 public:

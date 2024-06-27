@@ -1,5 +1,0 @@
-karimtawfik,__^]\QX^,30411230100086,190,False,True,ritaa:karimtawfik:30:24-3-2022:15-30;karimtawfik:suhailarefaay:-25:8-4-2022:20-30;karimtawfik:mohamedd:-45:8-5-2022:17-30,
-lydiamagdyy,XYWHMUTVVAX9,30402140100088,110,False,True,mohamedd:lydiamagdyy:20:23-3-2022:7-15;lydiamagdyy:ritaa:-10:24-4-2022:11-20,200:karimtawfik:lydiamagdyy;
-ritaa,F_GSVJ\E],30412020100085,115,False,True,ritaa:karimtawfik:-30:24-3-2022:15-30;lydiamagdyy:ritaa:10:24-4-2022:11-20;suhailarefaay:ritaa:35:17-5-2022:16-15,
-mohamedd,VY]VFIX^ZYL%G,30401210100089,125,False,True,mohamedd:lydiamagdyy:-20:23-3-2022:7-15;karimtawfik:mohamedd:45:8-5-2022:17-30,45:karimtawfik:mohamedd;
-suhailarefaay,XY_S[WYP,30402050100087,185,False,True,karimtawfik:suhailarefaay:25:8-4-2022:8-30;suhailarefaay:ritaa:-35:17-5-2022:16-15,

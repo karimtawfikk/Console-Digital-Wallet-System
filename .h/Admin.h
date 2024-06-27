@@ -6,7 +6,7 @@ class Admin
 {
 public:
 	string username, password;
-	
+
 	Admin();
 	Admin(string uname, string pass);
 	void viewRegUsers(unordered_map<string, User>& users);

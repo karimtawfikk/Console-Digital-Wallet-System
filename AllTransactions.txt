@@ -1,6 +1,0 @@
-mohamedd,lydiamagdyy,20,23-3-2022,7-15
-ritaa,karimtawfik,30,24-3-2022,15-30
-karimtawfik,suhailarefaay,25,8-4-2022,8-30
-lydiamagdyy,ritaa,10,24-4-2022,11-20
-karimtawfik,mohamedd,45,8-5-2022,17-30
-suhailarefaay,ritaa,35,17-5-2022,16-15

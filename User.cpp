@@ -256,7 +256,7 @@ void User::editInfo(unordered_map<string, User>& users, string&username)
             username = newUsername;
             users.insert(make_pair(newUsername, newUser));
           
-
+           
             cout << "\nUsername updated successfully." << endl;
             break; }
         case '2':
